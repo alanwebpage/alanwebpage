@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 😄 Hi, I'm alan
+- 😄 I'm alan
 - 🌱 I’m currently learning how to make website
 
 
