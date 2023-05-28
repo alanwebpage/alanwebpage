@@ -8,6 +8,7 @@ Here are some ideas to get you started:
 -->
 - 😄 I'm alan
 - 🌱 I’m currently learning how to make website
+- 🌱 I like to eat
 
 
 
