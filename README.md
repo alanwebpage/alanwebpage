@@ -7,7 +7,7 @@
 Here are some ideas to get you started:
 -->
 - 😄 I'm alan
-- 🌱 I’m currently learning how to make website
+- 🌱 I’m currently learning lots of thing
 - 🌱 I like to eat
 
 
